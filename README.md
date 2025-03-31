@@ -1,3 +1,5 @@
+[![An image of @harshvyas22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshvyas22)](https://holopin.io/@harshvyas22)
+
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
 </div>
